@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='true'>
+    <pages>
+        <page name='ReturnMoreThanOne_Tuples'/>
+        <page name='TuplesAssignNames'/>
+        <page name='Closures'/>
+        <page name='Closures_Swifty'/>
+        <page name='Closures_MoreSwifty'/>
+        <page name='Closures_EvenMore'/>
+        <page name='Closures_StillMore'/>
+        <page name='Closures_LastBit'/>
+    </pages>
+</playground>
